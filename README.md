@@ -5,7 +5,39 @@
 * Thom Koper
 ___________________________________________________________________________________________
 ## Game:
+Je komt op het eiland, je begint met een melee wapen. 
 
+Stage 1 (outerring):
+- 2 Pistols 
+- 1 key
+- Low HP enemies
+- Low DPS enemies
+- Low move speed enemies
+
+-.....
+
+Stage 2 (innerring):
+- 1 SMG
+- 1 Shotgun
+- 1 key
+- Normal HP enemies
+- Normal DPS enemies
+- Normal move speed enemies
+
+-.....
+
+Stage 3 (outerfort):
+- 1 Rifle
+- 1 key
+- High HP enemies
+- High DPS enemies
+- High move speed enemies
+
+-.....
+
+Stage 4 (innerfort):
+- Boss 
+- End Game
 ___________________________________________________________________________________________
 ## Tools:
 * Unreal Engine

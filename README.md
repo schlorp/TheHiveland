@@ -5,7 +5,7 @@
 * Thom Koper
 ___________________________________________________________________________________________
 ## Game:
-Je komt op het eiland, je begint met een melee wapen. 
+Je komt op het eiland, je begint met een melee wapen. het eiland is invested met een hivemind, ieder level van het eiland zie je verschillende brein enemies die per stage sterker worden en boven aan het eiland heb je een krater met De hivemind, zodra je de hivemind dood hebt dan gaan alle wezens op het eiland dood. per stage heb je ook verschillende wapens, je start met een melee wapen, daarna krijg je een pistol, daarna een smg en uiteindelijk een AK47.
 
 Stage 1 (outerring):
 - 2 Pistols 
